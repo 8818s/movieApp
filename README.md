@@ -25,5 +25,8 @@ npm run test
 npm run lint
 ```
 
+
+`这是一个寂寞的天,吓着有些伤心的雨滴`
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
